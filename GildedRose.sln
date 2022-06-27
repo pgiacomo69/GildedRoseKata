@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose.Console", "GildedRose.Console\GildedRose.Console.csproj", "{AF80EC05-FF49-4188-AAE7-BF089F2A0117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose.Test", "GildedRose.Test\GildedRose.Test.csproj", "{A597A463-412C-4333-8FEE-190CC024791E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF80EC05-FF49-4188-AAE7-BF089F2A0117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF80EC05-FF49-4188-AAE7-BF089F2A0117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF80EC05-FF49-4188-AAE7-BF089F2A0117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF80EC05-FF49-4188-AAE7-BF089F2A0117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A597A463-412C-4333-8FEE-190CC024791E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A597A463-412C-4333-8FEE-190CC024791E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A597A463-412C-4333-8FEE-190CC024791E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A597A463-412C-4333-8FEE-190CC024791E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
